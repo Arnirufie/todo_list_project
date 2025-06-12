@@ -25,6 +25,7 @@ todo_list_project/
 - Form Tambah Tugas
 - Fitur Checklist tugas selesai
 - Menu: My Day, Completed, All Tasks, Important
+- Fitur Logout
 
 ---
 
@@ -77,7 +78,7 @@ php artisan key:generate
 Edit file `.env`:
 
 ```
-DB_DATABASE=todo_list
+DB_DATABASE=todo_list_db
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -85,7 +86,7 @@ DB_PASSWORD=
 Import database:
 
 1. Buka phpMyAdmin  
-2. Buat database baru dengan nama `todo_list`  
+2. Buat database baru dengan nama `todo_list_db`  
 3. Import file `todo_list.sql` dari folder `database/`
 
 Jalankan migrasi dan server Laravel:
