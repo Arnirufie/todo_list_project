@@ -1,6 +1,6 @@
 # 📘 To-Do List App (Flutter + Laravel API)
 
-Aplikasi To-Do List ini dibuat menggunakan **Flutter** sebagai frontend dan **Laravel** sebagai backend (API). Aplikasi ini membantu pengguna dalam mencatat, mengatur, dan mengelola tugas harian. Fitur utama meliputi register-login, CRUD task, filter tugas, dan otentikasi token menggunakan Laravel Sanctum.
+Aplikasi To-Do List ini dibuat menggunakan **Flutter** sebagai frontend dan **Laravel** sebagai backend (API). Aplikasi ini membantu pengguna dalam mencatat, mengatur, dan mengelola tugas harian. Fitur utama meliputi register-login, CRUD task, filter tugas, logout dan otentikasi token menggunakan Laravel Sanctum.
 
 ---
 
