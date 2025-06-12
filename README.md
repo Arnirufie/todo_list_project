@@ -8,10 +8,10 @@ Aplikasi To-Do List ini dibuat menggunakan **Flutter** sebagai frontend dan **La
 
 ```
 todo_list_project/
-├── todo_flutter/             # Frontend (Flutter)
-├── todo_backend_laravel/     # Backend/API (Laravel)
 ├── database/
 │   └── todo_list.sql         # File SQL hasil export dari phpMyAdmin
+├── todo_backend_laravel/     # Backend/API (Laravel)
+├── todo_flutter/             # Frontend (Flutter)
 └── README.md
 ```
 
